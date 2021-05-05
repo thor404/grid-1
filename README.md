@@ -4,3 +4,7 @@
 ### First Grid project :D 
 
 ![project image](img/grid-1.png)
+
+#### Responsive look
+
+![responsive](img/grid-2.png)
